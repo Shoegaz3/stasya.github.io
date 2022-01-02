@@ -5,6 +5,10 @@
     font-family: ;
 }
 
+.head{
+    width: 400px;
+}
+
 .wrapper{
     width: 100%;
     overflow: hidden;
